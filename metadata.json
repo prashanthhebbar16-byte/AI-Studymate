@@ -1,0 +1,6 @@
+{
+  "name": "AI StudyMate",
+  "description": "AI-powered video learning platform for searching YouTube educational videos, extracting transcripts, generating structured study notes, and taking adaptive quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

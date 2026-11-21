@@ -1,0 +1,23 @@
+{
+  "name": "ai-studymate",
+  "version": "1.0.0",
+  "description": "AI-powered video learning and notes platform",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "connect-mongo": "^5.1.0",
+    "dotenv": "^16.6.1",
+    "express": "^4.22.3",
+    "express-session": "^1.19.0",
+    "mongoose": "^8.24.7",
+    "youtube-transcript": "^1.2.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
